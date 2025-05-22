@@ -8,7 +8,7 @@ MaskedMaterialToNanite is a Unreal Engine plugin which converts static meshes wi
 
 ![context menu option](images/menu.png)
 
-**Step 2**: Enter desired configuration options (described below) and run the action. A new static mesh with *_Nanite* appended will be created with the same materials.
+**Step 2**: Enter desired configuration options (described below) and run the action. A new static mesh with *_Nanite* appended will be created with the same materials. Its Nanite settings will be set to defaults, so you might need to adjust some properties, like preserving area for foliage.
 
 ![configuration](images/config.png)
 
