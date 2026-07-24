@@ -4,6 +4,8 @@ MaskedMaterialToNanite is a Unreal Engine plugin which converts static meshes wi
 
 ## Usage
 
+*NOTE: A step-by-step guide is available at https://www.youtube.com/watch?v=7TA9vriu9-E*
+
 **Step 1**: Right-click on a static mesh and select _Scripted Asset Actions -> Convert Mesh to Nanite_. 
 
 ![context menu option](images/menu.png)
