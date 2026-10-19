@@ -1,5 +1,7 @@
 # MaskedMaterialToNanite
 
+https://www.fab.com/listings/f59fbd35-f5da-4435-9a0b-af464d10a49c
+
 MaskedMaterialToNanite is a Unreal Engine plugin which converts static meshes with masked materials to pure geometry based on texture masks.
 
 ## Usage
